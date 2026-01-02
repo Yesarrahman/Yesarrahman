@@ -1,4 +1,4 @@
-![MasterHead](<img src="https://indoanalytica.com/static/images/bannerrr.gif" width="100%" />)
+![MasterHead](https://indoanalytica.com/static/images/bannerrr.gif)
 <h1 align="center">Hi 👋, I'm Yesar Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
